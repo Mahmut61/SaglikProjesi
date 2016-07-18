@@ -1,0 +1,68 @@
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\csc.exe
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\vbc.exe
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll.config
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.pdb
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.csprojResolveAssemblyReference.cache
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.dll
+C:\Users\student2\Documents\MS-YAZ-8\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.pdb
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\csc.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\vbc.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll.config
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.pdb
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.csprojResolveAssemblyReference.cache
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.pdb
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.xml
+C:\Users\student.WISSEN43\Desktop\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\csc.exe
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\vbc.exe
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll.config
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.pdb
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.xml
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.csprojResolveAssemblyReference.cache
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.dll
+C:\Users\Zeynep\Desktop\Flash Bellek\Mahmut\Erkan Hoyman\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.pdb
